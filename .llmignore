@@ -1,0 +1,8 @@
+#llm will not review the following directories and files
+.git
+.github
+.gitignore
+package.json
+package-lock.json
+SimpleCalc.test.js
+file6.js
